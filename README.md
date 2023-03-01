@@ -84,7 +84,7 @@ When it came to predicting energy demand, we developed a Long Short Term-Memory 
 [Energy Demand and Price Forecasting](https://github.com/ralatorr/ralatorr.github.io/tree/main/Energy_Forecasting)
 
 ## Contact
-Contact me at the following:
+If you'd like to reach out, I can be contacted via:
 - email: [ralatorr@chicagobooth.edu](ralatorr@chicagobooth.edu)
 - LinkedIn: [https://www.linkedin.com/in/ricardoalatorre/](https://www.linkedin.com/in/ricardoalatorre/)
 
