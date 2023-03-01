@@ -4,7 +4,7 @@
 
 My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, México, where I've lived most of my life. I've also spent portions of my life in the United States, first as a college student in New York City, then as a business school student and senior program manager in Chicago. A committed student of mathematics, I've taken steps to develop my skills in quantitative modeling throughout the course of my career and have recently decided to pivot into data science, completing General Assembly's Data Science Immersive program in February 2023. I'm currently searching for data scientist roles in supply chain, energy, and retail.
 
-Outside of work, I spend most of my leisure time cooking, gardening, and reading. I find that all three activities serve to put me at ease, cooking in particular. Lately I've been focsuing on preparing large quantities of curry over the weekends to give me something warm to eat on winter weekdays. When it comes to reading, I'm currently working my way through Normal People by Sally Rooney.
+Outside of work, I spend most of my leisure time cooking, gardening, and reading. I find that all three activities serve to put me at ease, cooking in particular. Lately I've been focsuing on preparing large quantities of curry over the weekends to give me something warm to eat on winter weekdays. When it comes to reading, I'm currently working my way through Adrift, by Scott Galloway.
 
 I do my best to maintain an active lifestyle, and generally make sure I run 3 miles a few times a week. I hope to be going back to the gym to lift more consistently very soon as well.
 
@@ -24,12 +24,12 @@ A PDF copy of my resume can be found here: [Ricardo Alatorre's Resume (PDF)](htt
 
 ## Project Portfolio
 ### NLP Reddit Classification
-#### Problem Statement
+#### Overview
 Taking advantage of the Pushshift Reddit API, we pulled thousands of posts from the r/NHL and r/NBA subreddits. With this data in hand, we set out to leverage NLP methods in order to create models that would take in a given Reddit post as an input and predict whether the post came from r/NHL or r/NBA.
 
 #### Conclusions
 
-After performing some data cleaning and EDA, we found that roughly half of all submissions did not have bodies of text to process, although there was plenty of text data in submission titles that aided our modeling. Thus, the Titles and Selftext fields were appended together into a Fulltext column before being vectorized through TfidfVectorizer. This way, each post whose body lived entirely within its title was properly processed.
+After performing some data cleaning and EDA, we found that roughly half of all submissions did not have bodies of text to process, although there was plenty of text data in submission titles that aided our modeling. Thus, we combined both the titles and bodies of text of each submission before they were vectorized through TfidfVectorizer. This way, each post whose body lived entirely within its title was properly processed.
 
 Once the text data had been processed and vectorized, three models were tested, with the following results:
 Model (Train Score, Test Score)
@@ -54,7 +54,7 @@ Our most successful model turned out to be Logistic Regression under GridSearch,
 [NLP Reddit Classification](https://github.com/ralatorr/ralatorr.github.io/tree/main/Reddit_Classification)
 
 ### California Health Outcomes
-#### Problem Statement
+#### Overview
 Pollution has long been known to have a causal effect on negative health outcomes. Our group's goal was to use various statistical hypothesis tests as well as exploratory data analysis and regression analysis to gain a stronger quantitative understanding of the effects of air pollution amongst the 58 counties of California.
 
 #### Conclusions
@@ -66,7 +66,7 @@ Pollution has long been known to have a causal effect on negative health outcome
 [California Health Outcomes](https://github.com/ralatorr/ralatorr.github.io/tree/main/Health_Outcomes)
 
 ### Energy Demand and Price Forecasting
-#### Problem Statement
+#### Overview
 
 In 2013, the government of Mexico opened up the energy industry to private and foreign investment. In the time since, a private market for energy has emerged. We set out to see if we could build models that reliably predict energy demand and price in the Mexican Wholesale Energy Market (real-time), focusing on the author's hometown of Monterrey, Nuevo Leon, Mexico.
 
@@ -78,7 +78,7 @@ When it came to CENACE's energy price and demand data, we selected weighted pric
 
 We tested a variety of different models, including linear regression, random forest regressors, ARIMAX, among others.
 We settled on a Random Forest Regressor model to predict energy prices. Our model predicted energy prices by MWh within 300 MXN or so.
-When it came to predicting energy demand, we developed a Long Short Term-Memory model, a kind of Recurrent Neural Network (RNN) that allows us to engage in time-series forecasting. This model's predictions had an average Mean Absolute Percentage Error roughly 2x that of the Mexican federal government's own demand forecasts. Given the LTSM model only took in univariate time series data, the development of a similar multivariate model seems promising.
+When it came to predicting energy demand, we developed a Long Short Term-Memory model, a kind of Recurrent Neural Network (RNN) that allows us to engage in time-series forecasting. This model's predictions had an average Mean Absolute Percentage Error roughly 2x that of the Mexican federal government's own demand forecasts. Given the LTSM model merely took in univariate time series data (i.e. energy demand across time), the development of a similar multivariate model seems promising.
 
 #### Link to Project
 [Energy Demand and Price Forecasting](https://github.com/ralatorr/ralatorr.github.io/tree/main/Energy_Forecasting)
