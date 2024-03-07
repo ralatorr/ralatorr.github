@@ -1,4 +1,4 @@
-# Project 3: Web APIs & NLP
+# Project Reddit: Web APIs & NLP
 
 ## Problem Statement
 
