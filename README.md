@@ -2,11 +2,11 @@
 
 ## About Me
 
-My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, México, where I've lived most of my life. I've also spent portions of my life in the United States, first as a college student in New York City, then as a business school student and senior program manager in Chicago. A committed student of mathematics, I've taken steps to develop my skills in quantitative modeling throughout the course of my career and have recently decided to pivot into data science, completing General Assembly's Data Science Immersive program in February 2023. I'm currently searching for data scientist roles in supply chain, energy, and retail.
+My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, México, where I've lived most of my life. I've also spent portions of my life in the United States, first as a college student in New York City, then as a business school student and senior program manager in Chicago. A committed student of mathematics, I've taken steps to develop my skills in quantitative modeling throughout the course of my career and have recently decided to pivot into data science, completing General Assembly's Data Science Immersive program in February 2023. I'm currently searching for data scientist roles in technology, energy, and retail.
 
-Outside of work, I spend most of my leisure time cooking, gardening, and reading. I find that all three activities serve to put me at ease, cooking in particular. Lately I've been focsuing on preparing large quantities of curry over the weekends to give me something warm to eat on winter weekdays. When it comes to reading, I'm currently working my way through Adrift, by Scott Galloway. While not particularly heavy on narrative, the book contains a cornucopia of charts detailing how America has changed over the last century, and serves as a great example of visual storytelling.
+Outside of work, I spend most of my leisure time cooking, gardening, and reading. I find that all three activities serve to put me at ease, cooking in particular. Lately I've been focsuing on preparing large quantities of curry over the weekends to give me something warm to eat on winter weekdays. When it comes to reading, I'm currently working my way through Lincoln in the Bardo, by George Saunders.
 
-I do my best to maintain an active lifestyle, and generally make sure I run 3 miles a few times a week. I hope to be going back to the gym to lift more consistently very soon as well.
+I do my best to maintain an active lifestyle, and generally make sure I run 6 miles at a time a few times a week. I hope to be going back to the gym to lift more consistently very soon as well.
 
 ### Educational Background
 - General Assembly
@@ -85,6 +85,6 @@ When it came to predicting energy demand, we developed a Long Short Term-Memory 
 
 ## Contact
 If you'd like to reach out, I can be contacted via:
-- email: [ralatorr@chicagobooth.edu](ralatorr@chicagobooth.edu)
+- email: [ralatorr@alumni.chicagobooth.edu](ralatorr@alumni.chicagobooth.edu)
 - LinkedIn: [https://www.linkedin.com/in/ricardoalatorre/](https://www.linkedin.com/in/ricardoalatorre/)
 
