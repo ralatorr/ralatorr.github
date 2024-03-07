@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, México, where I've lived most of my life. I've also spent portions of my life in the United States, first as a college student in New York City, then as a business school student and senior program manager in Chicago. A committed student of mathematics, I've taken steps to develop my skills in quantitative modeling throughout the course of my career and have recently decided to pivot into data science, completing General Assembly's Data Science Immersive program in February 2023. I'm currently searching for data scientist roles in technology, energy, and retail.
+My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, México, where I've lived most of my life. I've also spent portions of my life in the United States, first as a college student in New York City, then as a business school student and senior program manager in Chicago. A committed student of mathematics, I've taken steps to develop my skills in quantitative modeling throughout the course of my career and have recently decided to pivot into data science, completing General Assembly's Data Science Immersive program in February 2023. After taking a few months off to focus on my family, I'm currently searching for data scientist roles in technology, energy, and retail.
 
 Outside of work, I spend most of my leisure time cooking, gardening, and reading. I find that all three activities serve to put me at ease, cooking in particular. Lately I've been focsuing on preparing large quantities of curry over the weekends to give me something warm to eat on winter weekdays. When it comes to reading, I'm currently working my way through Lincoln in the Bardo, by George Saunders.
 
