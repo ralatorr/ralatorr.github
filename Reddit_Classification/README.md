@@ -1,4 +1,4 @@
-# Project Reddit: Web APIs & NLP
+# Classification Project: Reddit Web APIs & NLP
 
 ## Problem Statement
 
