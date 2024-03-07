@@ -50,7 +50,8 @@ The results showed marginal success but also much noise. We found that:
 In all of the above models the regression coefficients indicated a negative relationship between good air quality days and a positive relationship between days with elevated levels of fine particulate matter, with p-values less than $.05$ for all coefficients. 
 
 
--- JACK PORTION
+## Birth Weight & Air Quality
+
 We conducted an analysis of the relationship between air quality and low birthweight in California. The data was collected from 2010 to 2021 and included county level information. Our initial analysis used a linear regression model with the air quality independent variables mentioned earlier in this summary.
 
 However, due to the large number of variables and the presence of multicollinearity, we decided to perform a Lasso regression using LassoCV.
@@ -64,10 +65,3 @@ Our final model included the following independent variables:
 'days pm10'
 
 We found that 'good days' had a negative relationship with low birthweight as measured by a negative coefficient, while 'max aqi', '90th percentile aqi', and 'days ozone' had positive coefficients. 'Days pm10' had a strong negative coefficient, which may be explained removing the other contaminants from the original first model. The R-squared of the regression was 54.3%, and thus we focused our resourses on the other more successful datasets.
-
-INSERT MORE
-
-# Conclusion
-
-INSERT MORE
-
