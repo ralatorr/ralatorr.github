@@ -20,7 +20,7 @@ I do my best to maintain an active lifestyle, and generally make sure I run 6 mi
 
 I am a quantitative analyst with 6 years of experience spanning different roles in management consulting, renewable energy business development, and tech program management.
 
-A PDF copy of my resume can be found here: [Ricardo Alatorre's Resume (PDF)](https://github.com/ralatorr/ralatorr.github.io/blob/main/Resume/Ricardo_Alatorre_Resume_2023.pdf).
+A PDF copy of my resume can be found here: [Ricardo Alatorre's Resume (PDF)](https://github.com/ralatorr/ralatorr.github.io/blob/main/Resume/Ricardo_Alatorre_Resume_2024.pdf).
 
 ## Project Portfolio
 ### NLP Reddit Classification
