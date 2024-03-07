@@ -1,4 +1,4 @@
-# Evaluating the Effects of Air Quality on Health Outcomes Amongst CA Counties
+# Evaluating the Effects of Air Quality on Health Outcomes in CA Counties
 ---
 
 # Problem Statement
