@@ -19,5 +19,5 @@ This project repo contains 4 notebooks:
 2. B. Energy Price Modeling (ML): Contains code for modeling energy prices via a Random Forest Regressor, and compares said model's performance against a Linear Regression, a Ridge Regression, and a XGBoost model., 
 2. C. Energy Price Demand Modeling (LTSM): Contains code for modeling energy demand via a LTSM RNN.
 
-Of the two energy price models, it was XXXXXX that did better, achieving a RMSE < 300
+Of the two energy price models, it was Random Forest Regressor model that did better, achieving a RMSE < 300
 Our LTSM model, on the other hand, performed poorly against the government's own demand estimates, with an average MAPE score that was roughly 2x higher than the government forecast average MAPE score.
