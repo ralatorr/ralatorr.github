@@ -6,7 +6,7 @@ My name is Ricardo Alatorre, and I am a native of Monterrey, Nuevo León, Méxic
 
 ### Educational Background
 - University of Chicago Booth School of Business
-  - Master of Business Administration (MBA), Concentrations in Econometrics & Statistics, Analytic Finance, and Operations Management
+  - Master of Business Administration (MBA), Econometrics & Statistics
 - Columbia College, Columbia University
   - Bechelor of Arts (BA), Mathematics
 
